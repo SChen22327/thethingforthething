@@ -7,6 +7,12 @@ public class Person {
         this.age = age;
     }
 
+    public void setAge(int newAge) {
+        age = newAge;
+    }
+    public void setName(String newName) {
+        name = newName;
+    }
     public String getName(){
         return name;
     }
