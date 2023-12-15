@@ -10,4 +10,8 @@ public class Person {
     public void setName(String newName) {
         name = newName;
     }
+
+    public void setAge(int newAge) {
+        age = newAge;
+    }
 }
